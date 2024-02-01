@@ -1,0 +1,21 @@
+.comentarios {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(245, 245, 245, 0.757);
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+h2,
+h3,
+p {
+  line-height: 30px;
+}
+
+h2 {
+  color: hsla(125, 17%, 28%);
+}
